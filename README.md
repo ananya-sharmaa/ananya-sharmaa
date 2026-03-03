@@ -1,5 +1,12 @@
+<h1 align="center">Hey! 👋 I'm Ananya Sharma</h1>
+<h3 align="center">CS + Data Science @ ASU '27</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=180&section=header&text=Ananya%20Sharma&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=CS%20%2B%20Data%20Science%20@%20ASU%20'27&descAlignY=55&descSize=18"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
 </p>
 
 <p align="center">
@@ -84,8 +91,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ananya-sharmaa&color=58a6ff&style=flat-square&label=Profile+Views"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer"/>
 </p>
