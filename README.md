@@ -66,22 +66,19 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananya-sharmaa&hide_border=true&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats"/>
+  <a href="https://github.com/ananya-sharmaa">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananya-sharmaa&theme=github_dark" alt="GitHub Profile Summary"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-sharmaa&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
+  <a href="https://github.com/ananya-sharmaa">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ananya-sharmaa&theme=github_dark" alt="Top Languages by Repo"/>
+  </a>
+  <a href="https://github.com/ananya-sharmaa">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ananya-sharmaa&theme=github_dark" alt="GitHub Stats"/>
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananya-sharmaa&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-</picture>
 
 ---
 
