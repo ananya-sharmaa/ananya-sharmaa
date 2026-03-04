@@ -1,4 +1,4 @@
-<h1 align="center">Hey! 👋 I'm Ananya Sharma</h1>
+<h1 align="center">Hey! 👋 I'm Ananya</h1>
 <h3 align="center">CS + Data Science @ ASU '27</h3>
 
 <p align="center">
